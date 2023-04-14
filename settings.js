@@ -19,7 +19,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 global.BOT_TOKEN = "5894353360:AAEGCIOXSkB847Vl7XaOFd3wMquDAlY-hmE" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "ikytelegrambot" //your bot name
-global.OWNER_NAME = "ikybot" //your name
+global.OWNER_NAME = "@Taipremium" //your name
 global.OWNER_NUMBER = "6285878836361" //your telegram number
 global.OWNER = ["https://t.me/@Taipremium", "https://t.me/@Taipremium"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
 global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
