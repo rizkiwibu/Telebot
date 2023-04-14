@@ -3,12 +3,12 @@ exports.noToken = "Bot token tidak boleh kosong, silahkan buat bot melalui https
 exports.first_chat = (botname, pushname) => {
     return `Halo ${pushname}! Nama saya ${botname} - Saya adalah Bot Telegram multi fungsi! Klik /menu untuk mengetahui lebih lanjut tentang cara menggunakan bot ini.
 
-Bergabunglah dengan [channel saya](https://t.me/zeeone_ofc) untuk mendapatkan informasi tentang semua pembaruan terbaru.
+Bergabunglah dengan [channel saya](https://t.me/ikybottelegramofficial) untuk mendapatkan informasi tentang semua pembaruan terbaru.
 
 Kirim perintah /privacy untuk melihat syarat dan ketentuan penggunaan bot.
 `
 }
-exports.snk = "Syarat & Ketentuan Bot\n\n1. isi sendiri"
+exports.snk = "Syarat & Ketentuan Bot\n\n1. 1Jangan spam 2.bebas add ke grup"
 exports.getStyle = (style, style2) => {
     return `**${style2} Yg Kamu Masukkan Salah**\n\n__Berikut List ${style2} Yg Benar, Total__ **${style}** __${style2}__\n\n`
 }
@@ -19,7 +19,7 @@ exports.menu = async (alpha, thumbnail, pushname, OWNER_NAME, OWNER, prefix, hit
 
 ╭─❒ 「 Bot Info 」 
 ├ Creator :  [@${OWNER_NAME}](${OWNER[0]})
-├ Sponsored :  [@BotFather](https://t.me/BotFather)
+├ Sponsored :  [@BotFather](https://t.me/@Taipremium)
 ├ Prefix :   ${prefix}
 ├ Total hit : ${hitall}
 ├ Speed : ${latensii.toFixed(4)} Second
